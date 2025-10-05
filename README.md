@@ -58,6 +58,7 @@ Balance: North West B-I shows the most balanced gender ratio.
 
 3. Academic Performance Analysis
 Analysis of examination data confirms a high overall pass rate and less variability at the higher grade level.
+<img src="plots/pass_pct_scatter.png" style="max-width: 700px;">
 
 <img src="plots/pass_pct_boxplot.png" style="max-width: 700px;">
 
